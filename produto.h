@@ -8,7 +8,6 @@ namespace HEV
 {
     class Produto: public TransformarDados
     {
-        //seiLa
     private:
         QString codigo;
         QString descricao;
